@@ -74,6 +74,7 @@ By combining HTML, CSS, and JavaScript, you’ve created a highly functional and
 NOTE:It is a frontend development of e-learning platform! you have to check by opening index.html in your browser.
 Resources i have used to make this project is from google, chatgpt and youtube for extra information .
 the output of the e-learning project is :
+https://github.com/shruti-21099/CODTECH--E_LEARNING-PLATFORM-UI-/issues/1#issue-2821132442
 
 
 
